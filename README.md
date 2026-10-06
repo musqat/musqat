@@ -34,7 +34,7 @@ Java · Spring Boot 백엔드 신입.
 | **GGeolmuse** | 주식 백테스팅 · MSA 7개 서비스, K3s 운영 | [데모](https://ggeolmuse.com)(평일 07–19시) · [코드](https://github.com/musqat/ggeolmuse) |
 | **IMS** | 제조 본사·협력사 재고 관리 · BOM 기반 생산·정산 자동화 | [데모](https://ims-green-nu.vercel.app) · [코드](https://github.com/musqat/IMS) |
 | **Collabus** | 팀 협업 태스크 관리 · 실시간 동기화 | [코드](https://github.com/musqat/Collabus) |
-| **starchive** | 영화·책 통합 검색·추천 | [웹](https://starchive-front.vercel.app) · [코드](https://github.com/musqat/starchive) |
+| **starchive** | 영화·책 통합 검색·추천 | [웹](https://starchive-front.vercel.app) · [APK](https://github.com/musqat/starchive/releases/latest) · [코드](https://github.com/musqat/starchive) |
 
 자세한 구조·기술 결정은 각 저장소 README에 있습니다.
 
